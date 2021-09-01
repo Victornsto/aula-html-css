@@ -1,4 +1,4 @@
 # Repositório para praticar git e github 
 
-É baseado nas vídeo-aulas do professor Gustavo Guanabara, da plataforma https://www.cursoemvideo.com/cursos/ 
+É um exercício baseado nas vídeo-aulas do professor Gustavo Guanabara, da plataforma https://www.cursoemvideo.com/cursos/ 
 
